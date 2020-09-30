@@ -69,3 +69,11 @@ body {
 .flex {
     display: flex;
 }
+.indian-flag{
+    width: 18px;
+    height: 13px;
+    margin-bottom: 3px;
+}
+a:hover {
+    color: #30a2d0;
+}
